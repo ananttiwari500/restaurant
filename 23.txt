@@ -1,0 +1,1 @@
+{'Reference No.': '23', 'Fries': 2.0, 'Noodles': 4.0, 'Cost of Meal': ('Rs', '500.00'), 'Service Charges': ('Rs', '5.05'), 'Total Cost': ('Rs', '605.05'), 'Tax': ('Rs', '100.00')}
