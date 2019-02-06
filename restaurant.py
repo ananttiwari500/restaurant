@@ -5,6 +5,7 @@ import time
 import json
 import csv
 
+# just
 root=Tk()
 screen_width = root.winfo_screenwidth()
 screen_height = root.winfo_screenheight()
@@ -21,7 +22,7 @@ Tops.pack(side=TOP)
 f1=Frame(root,width=800,height=700,relief=SUNKEN)
 f1.pack(side=LEFT)
 
-#TIME
+#TIMEm
 localtime=time.asctime(time.localtime(time.time()))
 
 lblInfo=Label(Tops,font=('helvetica',50,'bold'),text="HYDRANGEA RESTAURANT ",fg="Black",bd=10,anchor='w')
@@ -252,3 +253,4 @@ btnPrint=Button(f1,padx=16,pady=8,bd=16,fg="black",font=('arial',16,'bold'),widt
 root.mainloop()
 
 
+#just chheking
